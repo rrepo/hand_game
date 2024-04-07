@@ -30,4 +30,5 @@ Enter the bootloader in 3 ways:
 ![hand_game](https://i.imgur.com/S0oEK53.jpeg)
 ![hand_game](https://i.imgur.com/P5dPVsl.jpeg)
 
-Here is the 3Dmodels.
+## Here is the 3D models.
+[3d models](https://github.com/rrepo/hand_game_3Dmodels?tab=readme-ov-file "Here is qmk files.")
