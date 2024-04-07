@@ -2,7 +2,7 @@
     "manufacturer": "rrepo",
     "keyboard_name": "hand_game",
     "maintainer": "rrepo",
-    "bootloader": "atmel-dfu",
+    "bootloader": "caterina",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -13,8 +13,8 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["C2", "C2", "C2", "C2","C2", "C2", "C2", "C2"],
-        "rows": ["D1", "D1", "D1", "D1","D1", "D1", "D1"]
+        "cols": ["B6", "B2", "B3", "B1","F7", "F6", "F5", "F4"],
+        "rows": ["B5", "B4", "E6", "D7","C6", "D4", "D0"]
     },
     "processor": "atmega32u4",
     "url": "",
