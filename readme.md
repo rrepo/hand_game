@@ -1,6 +1,6 @@
-# hand_game
+# hand_game (This is protype. 4/7)
 
-![hand_game](imgur.com image replace me!)
+![hand_game](https://i.imgur.com/8W6ofcq.jpeg)
 
 *A short description of the keyboard/project*
 
@@ -25,3 +25,9 @@ Enter the bootloader in 3 ways:
 * **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
 * **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+
+## I only finished making the left side.
+![hand_game](https://i.imgur.com/S0oEK53.jpeg)
+![hand_game](https://i.imgur.com/P5dPVsl.jpeg)
+
+Here is the 3Dmodels.
