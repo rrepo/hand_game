@@ -5,13 +5,12 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT(
-                KC_A,   KC_B,   KC_C,   KC_D,
-                KC_E,   KC_F,   KC_G,   KC_H,
-        KC_I,   KC_J,   KC_K,   KC_L,   KC_M,   KC_N,   KC_O,
-                KC_P,   KC_Q,   KC_R,   KC_S,
-        KC_T,   KC_U,   KC_V,   KC_W,   KC_X,   KC_Y,   KC_Z,   KC_1,
-                                                KC_2,   KC_3,   KC_4,
-                                                        KC_5,   KC_6
-
+            KC_ESCAPE,  KC_F1,  KC_F2,  KC_F3,
+                KC_1,   KC_2,   KC_3,   KC_4,
+        KC_TAB, KC_Q,   KC_W,   KC_E,   KC_R,   KC_G,   KC_K,
+                KC_A,   KC_S,   KC_D,   KC_F,
+KC_LEFT_SHIFT,  KC_Z,   KC_X,   KC_C,   KC_V,   KC_BACKSPACE,   KC_J,           KC_L,
+                                                KC_Y,           KC_SPACE,       KC_U,
+                                                                KC_SPACE,       KC_LEFT_CTRL
     )
 };
