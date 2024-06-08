@@ -18,3 +18,6 @@
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
+
+#define SOFT_SERIAL_PIN D0
+#define SPLIT_HAND_PIN D2
